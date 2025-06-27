@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">¡Hola! 👋 Soy Alex</h1>
 
-<!--
-**AlexAlonsoM/AlexAlonsoM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Soy un desarrollador apasionado por la creación de soluciones funcionales y educativas, con experiencia en desarrollo de aplicaciones de escritorio, móviles y web.<br>
+  Trabajo con tecnologías como <strong>Java</strong>, <strong>C# con WPF</strong>, <strong>Python</strong>, <strong>Firebase</strong>, <strong>PHP</strong>, <strong>Laravel</strong>, <strong>Angular</strong> y <strong>JavaScript</strong>.<br>
+  Me gusta construir proyectos que resuelvan problemas reales, aplicando buenas prácticas de programación y siempre con ganas de seguir aprendiendo y mejorando.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Proyectos destacados
+
+- 🎓 [**Foro Colegio**](https://github.com/AlexAlonsoM/foroColegio): Plataforma de foros académicos para estudiantes y docentes. (Laravel)  
+  👁️ [Visualizar el proyecto](https://youtu.be/d01pd1ssvAM)
+
+- 🧠 [**Emparejar Imágenes App**](https://github.com/AlexAlonsoM/EmparejarImagenesApp): Juego educativo para estimular la memoria visual. (Java-Android Studio)  
+  👁️ [Visualizar el proyecto](https://youtu.be/VjUOeYcllCI)
+
+- 🤝 [**Sistema de Gestión Caritativa**](https://github.com/AlexAlonsoM/Sistema-de-Gestion-Caritativa-con-Firebase-y-WPF): Gestión de donaciones usando WPF y Firebase.  
+  👁️ [Visualizar el proyecto](https://youtu.be/QCcGVe9Ef6A)
+
+---
+
+### 🧰 Tecnologías y herramientas
+
+<p>
+ <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+### 📫 Contacto
+
+- 📧 alex.munoz.alonso@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil)
+
+<p align="center">
+  ¡Gracias por pasarte por mi perfil! 😊
+</p>
