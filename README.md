@@ -41,7 +41,7 @@
 ### 📫 Contacto
 
 - 📧 alex.munoz.alonso@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil)
+- 💼 [LinkedIn](www.linkedin.com/in/alex-alonso-muñoz-9bb479362)
 
 <p align="center">
   ¡Gracias por pasarte por mi perfil! 😊
