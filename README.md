@@ -12,6 +12,9 @@
 
 - 🎓 [**Foro Colegio**](https://github.com/AlexAlonsoM/foroColegio): Plataforma de foros académicos para estudiantes y docentes. (Laravel)  
   👁️ [Visualizar el proyecto](https://youtu.be/d01pd1ssvAM)
+  
+- 🤝 [**Gestor de Tareas**](https://github.com/AlexAlonsoM/Gestor-de-Tareas-con-Seguridad): 
+  👁️ [Visualizar el proyecto](https://www.youtube.com/watch?v=Z_Y5CFc8lew)
 
 - 🧠 [**Emparejar Imágenes App**](https://github.com/AlexAlonsoM/EmparejarImagenesApp): Juego educativo para estimular la memoria visual. (Java-Android Studio)  
   👁️ [Visualizar el proyecto](https://youtu.be/VjUOeYcllCI)
@@ -35,6 +38,8 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </p>
 
 ---
