@@ -2,7 +2,7 @@
 
 <p align="center">
   Soy un desarrollador apasionado por la creación de soluciones funcionales y educativas, con experiencia en desarrollo de aplicaciones de escritorio, móviles y web.<br>
-  Trabajo con tecnologías como <strong>Java</strong>, <strong>C# con WPF</strong>, <strong>Python</strong>, <strong>Firebase</strong>, <strong>PHP</strong>, <strong>Laravel</strong>, <strong>Angular</strong> y <strong>JavaScript</strong>.<br>
+  Trabajo con tecnologías como <strong>Java</strong>, <strong>C# con WPF</strong>, <strong>Python</strong>, <strong>SpringBoot</strong>, <strong>React</strong>, <strong>Firebase</strong>, <strong>PHP</strong>, <strong>Laravel</strong>, <strong>Angular</strong> y <strong>JavaScript</strong>.<br>
   Me gusta construir proyectos que resuelvan problemas reales, aplicando buenas prácticas de programación y siempre con ganas de seguir aprendiendo y mejorando.
 </p>
 
