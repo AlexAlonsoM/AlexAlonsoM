@@ -13,7 +13,7 @@
 - 🎓 [**Foro Colegio**](https://github.com/AlexAlonsoM/foroColegio): Plataforma de foros académicos para estudiantes y docentes. (Laravel)  
   👁️ [Visualizar el proyecto](https://youtu.be/d01pd1ssvAM)
   
-- 🤝 [**Gestor de Tareas**](https://github.com/AlexAlonsoM/Gestor-de-Tareas-con-Seguridad): 
+- 🤝 [**Gestor de Tareas con Seguirdad**](https://github.com/AlexAlonsoM/Gestor-de-Tareas-con-Seguridad): Sistema de gestión de tareas. Dashboard con gráficos interactivos, notificaciones, logs de eventos y grafo de relaciones. (React + PHP + MySQL)  
   👁️ [Visualizar el proyecto](https://www.youtube.com/watch?v=Z_Y5CFc8lew)
 
 - 🧠 [**Emparejar Imágenes App**](https://github.com/AlexAlonsoM/EmparejarImagenesApp): Juego educativo para estimular la memoria visual. (Java-Android Studio)  
