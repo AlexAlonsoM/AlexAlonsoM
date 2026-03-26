@@ -20,7 +20,6 @@
   👁️ [Visualizar el proyecto](https://youtu.be/VjUOeYcllCI)
 
 - 🤝 [**Sistema de Gestión Caritativa**](https://github.com/AlexAlonsoM/Sistema-de-Gestion-Caritativa-con-Firebase-y-WPF): Gestión de donaciones usando WPF y Firebase.  
-  👁️ [Visualizar el proyecto](https://youtu.be/QCcGVe9Ef6A)
 
 ---
 
