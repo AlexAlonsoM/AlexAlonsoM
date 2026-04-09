@@ -19,8 +19,8 @@
 - 🧠 [**Emparejar Imágenes App**](https://github.com/AlexAlonsoM/EmparejarImagenesApp): Juego educativo para estimular la memoria visual. (Java-Android Studio)  
   👁️ [Visualizar el proyecto](https://youtu.be/VjUOeYcllCI)
 
-- 📊 [**MyWatchlist App**](https://github.com/AlexAlonsoM/EmparejarImagenesApp): App móvil de trading con gráfico, búsqueda, favoritos y modo claro/oscuro. (React Native + TypeScript + Zustand)
-  👁️ [Visualizar el proyecto]([https://youtu.be/VjUOeYcllCI](https://youtu.be/wUTQImqedIE))
+- 📊 [**MyWatchlist App**](https://github.com/AlexAlonsoM/MyWatchlist): App móvil de trading con gráfico, búsqueda, favoritos y modo claro/oscuro. (React Native + TypeScript + Zustand)
+  👁️ [Visualizar el proyecto](https://youtu.be/wUTQImqedIE)
 
 - 🤝 [**Sistema de Gestión Caritativa**](https://github.com/AlexAlonsoM/Sistema-de-Gestion-Caritativa-con-Firebase-y-WPF): Gestión de donaciones usando WPF y Firebase.  
 
